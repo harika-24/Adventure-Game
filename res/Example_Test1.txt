@@ -1,0 +1,73 @@
+Example run for that shows the player navigating through the dungeon, killing an otyugh and winning.
+Dungeon construction: 5, 5, false,0, 0.3,4
+
+
+
+
+Type show for displaying the dungeon again 
+show
+
+
+Treasure that player has : {}
+Number of arrows that player has : 3
+
+You are in a cave
+The possible moves of the player are : {WEST=false, SOUTH=false, EAST=false, NORTH=true} 
+The treasure at the current location is : {}
+arrow count at location is : 0
+
+What would you like to do? Move (M), Pickup (P), or Shoot(S)?M
+Enter a possible direction to move :NORTH
+
+
+Treasure that player has : {}
+Number of arrows that player has : 3
+
+You smell something pungent at a distance
+The possible moves of the player are : {WEST=true, SOUTH=true, EAST=false, NORTH=false} 
+The treasure at the current location is : {}
+arrow count at location is : 0
+
+What would you like to do? Move (M), Pickup (P), or Shoot(S)?S
+Specify the direction and the distance to be shot : (Eg. NORTH)WEST
+Specify the distance (number of caves) the arrow travels : 1
+You hear a great howl in the distance!
+
+
+Treasure that player has : {}
+Number of arrows that player has : 2
+
+You smell something pungent at a distance
+The possible moves of the player are : {WEST=true, SOUTH=true, EAST=false, NORTH=false} 
+The treasure at the current location is : {}
+arrow count at location is : 0
+
+What would you like to do? Move (M), Pickup (P), or Shoot(S)?S
+Specify the direction and the distance to be shot : (Eg. NORTH)WEST
+Specify the distance (number of caves) the arrow travels : 1
+You hear a great howl in the distance!
+
+
+Treasure that player has : {}
+Number of arrows that player has : 1
+
+
+The possible moves of the player are : {WEST=true, SOUTH=true, EAST=false, NORTH=false} 
+The treasure at the current location is : {}
+arrow count at location is : 0
+
+What would you like to do? Move (M), Pickup (P), or Shoot(S)?M
+Enter a possible direction to move :WEST
+
+
+Treasure that player has : {}
+Number of arrows that player has : 1
+
+
+The possible moves of the player are : {WEST=true, SOUTH=false, EAST=true, NORTH=false} 
+The treasure at the current location is : {}
+arrow count at location is : 0
+
+What would you like to do? Move (M), Pickup (P), or Shoot(S)?M
+Enter a possible direction to move :WEST
+You reached the end. Hurrayyyy!!

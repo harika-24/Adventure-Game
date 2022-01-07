@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GUI1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/TextBasedAdventure/GUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
